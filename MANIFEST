@@ -6,3 +6,4 @@ lib/WWW/Shorten/Yourls.pm
 t/00-load.t
 t/pod-coverage.t
 t/pod.t
+t/yourls.t
